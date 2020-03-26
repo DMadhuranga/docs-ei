@@ -82,4 +82,3 @@ curl -X POST \
       </message>
    </soapenv:Body>
 </soapenv:Envelope>
-```
